@@ -1,3 +1,7 @@
 numpy
 streamlit
 pickle5
+scikit-learn
+pandas
+seaborn
+matplotlib
